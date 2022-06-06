@@ -1,0 +1,7 @@
+print("||| NATE HWANG UNOFFICIAL CALCULATOR FOR ONLY MULTIPLYING |||")
+print(" ")
+x= int(input("Input a number to multiply: "))
+print(" ")
+y= int(input("Input a second number to mutiply: "))
+print(" ")
+print("ANSWER: "+str(x*y))

@@ -1,0 +1,8 @@
+print("||| NAT HWAG UNOFFICIAL HAPPY BIRTHDAY GENERATOR 2.0 |||")
+print(" ")
+x=input("Choose someone to say Happy Birthday to: ")
+print(" ")
+print("Happy birthday to you!")
+print("Happy birthday to you!")
+print("Happy birthday dear "+x+"!")
+print("Happy birthday to you!")
